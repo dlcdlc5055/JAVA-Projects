@@ -1,0 +1,12 @@
+start
+x=417
+y=35
+end
+789
+868
+size
+372
+833
+block size
+62
+59.5
